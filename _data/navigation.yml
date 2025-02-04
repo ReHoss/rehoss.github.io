@@ -4,6 +4,8 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+# @ReHoss: the url is the path where the content is stored in the _site folder
+
 main:
   - title: "Publications"
     url: /publications/
@@ -11,8 +13,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/
 
 #  - title: "Portfolio"
 #    url: /portfolio/

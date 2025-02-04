@@ -126,6 +126,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+site_theme               : "dark"
 
 # Social Sharing
 twitter:

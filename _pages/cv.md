@@ -7,7 +7,11 @@ redirect_from:
   - /resume
 ---
 
+My academic CV is available [here]({{ site.url }}/files/main_academic_cv.pdf).
+
 {% include base_path %}
+
+<!---
 
 Education
 ======
@@ -62,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
