@@ -1,0 +1,16 @@
+@inproceedings{hosseinkhan2025,
+    author="Boucher, R{\'e}my Hosseinkhan
+and Semeraro, Onofrio
+and Mathelin, Lionel",
+    editor="Dorronsoro, Bernab{\'e}
+and Zagar, Martin
+and Talbi, El-Ghazali",
+    title="Evidence on the Regularisation Properties of Maximum-Entropy Reinforcement Learning",
+    booktitle="Optimization and Learning",
+    year="2025",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="123--139",
+    abstract="The generalisation and robustness properties of policies learnt through Maximum-Entropy Reinforcement Learning are investigated on chaotic dynamical systems with Gaussian noise on the observable. First, the robustness under noise contamination of the agent's observation of entropy regularised policies is observed. Second, notions of statistical learning theory, such as complexity measures on the learnt model, are borrowed to explain and predict the phenomenon. Results show the existence of a relationship between entropy-regularised policy optimisation and robustness to noise, which can be described by the chosen complexity measures.",
+    isbn="978-3-031-77941-1"
+}

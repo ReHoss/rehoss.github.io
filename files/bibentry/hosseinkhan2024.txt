@@ -1,0 +1,15 @@
+@inproceedings{hosseinkhan2024,
+    title = 	 {Increasing information for model predictive control with semi-{M}arkov decision processes},
+    author =       {Hosseinkhan Boucher, R\'{e}my and Douka, Stella and Semeraro, Onofrio and Mathelin, Lionel},
+    booktitle = 	 {Proceedings of the 6th Annual Learning for Dynamics &amp; Control Conference},
+    pages = 	 {1400--1414},
+    year = 	 {2024},
+    editor = 	 {Abate, Alessandro and Cannon, Mark and Margellos, Kostas and Papachristodoulou, Antonis},
+    volume = 	 {242},
+    series = 	 {Proceedings of Machine Learning Research},
+    month = 	 {15--17 Jul},
+    publisher =    {PMLR},
+    pdf = 	 {https://proceedings.mlr.press/v242/hosseinkhan-boucher24a/hosseinkhan-boucher24a.pdf},
+    url = 	 {https://proceedings.mlr.press/v242/hosseinkhan-boucher24a.html},
+    abstract = 	 {Recent works in Learning-Based Model Predictive Control of dynamical systems show impressive sample complexity performances using criteria from Information Theory to accelerate the learning procedure. However, the sequential exploration opportunities are limited by the system local state, restraining the amount of information of the observations from the current exploration trajectory. This article resolves this limitation by introducing temporal abstraction through the framework of Semi-Markov Decision Processes. The framework increases the total information of the gathered data for a fixed sampling budget, thus reducing the sample complexity.}
+}
