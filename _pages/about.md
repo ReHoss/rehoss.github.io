@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third year PhD candidate in Reinforcement Learning at Université Paris-Saclay, working on Learning-based Control of Dynamical Systems with applications in Computational Fluid Dynamics.
+Hello! I am a third year PhD candidate in Reinforcement Learning at Université Paris-Saclay, working on **Learning-based Control of Dynamical Systems with applications in Computational Fluid Dynamics**.
 My research is supervised by [Anne Vilnat](https://perso.limsi.fr/anne/), [Onofrio Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en), and [Lionel Mathelin](https://perso.limsi.fr/mathelin/).
 
 Before, I was a research intern at [Inria TAU](https://team.inria.fr/tau2/team-members/), where I worked on Learning-based methods for Stiff Differential Equations: Koopman operator theory and Physics-Informed Neural Networks (PINNs) under the supervision of [Michele-Alessandro Bucci](https://www.researchgate.net/profile/Michele-Bucci), [Thibault Faney](https://scholar.google.fr/citations?user=6mNJCMUAAAAJ&hl=fr), [Cédric Mehl](https://scholar.google.fr/citations?user=6m0FNwIAAAAJ&hl=fr) and [Marc Schoenauer](https://www.lri.fr/~marc/).  
@@ -14,6 +14,7 @@ I have also been a research intern in several R&D departments such as [Capital F
 
 I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.masteriasd.eu/fr/), a [MSc in Statistics and Financial Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications/m2-ingenierie-statistique-et-financiere) and a [BSc in Applied Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications) (probability and statistics)  at Université Paris Dauphine - PSL.
 
+---
 
 ## Research Interests
 - Reinforcement Learning
@@ -62,18 +63,17 @@ I have been a teaching assistant for the following courses:
 
 
 ## Attendance
-- [**EWRL17 (European Workshop on Reinforcement Learning)**](https://ewrl.wordpress.com/ewrl17-2024/), Toulouse, France, 2024
+- [**European Workshop on Reinforcement Learning (EWRL17)**](https://ewrl.wordpress.com/ewrl17-2024/), Toulouse, France, 2024
 
-- [**L4DC24 (6th Annual Learning for Dynamics & Control Conference)**](https://l4dc.web.ox.ac.uk/home), Oxford, UK, 2024
+- [**6th Annual Learning for Dynamics & Control Conference (L4DC24)**](https://l4dc.web.ox.ac.uk/home), Oxford, UK, 2024
 
-- [**EWR16 (European Workshop on Reinforcement Learning)**](https://ewrl.wordpress.com/past-ewrl/ewrl16-2023/), Brussels, Belgium, 2023 
+- [**European Workshop on Reinforcement Learning (EWRL16)**](https://ewrl.wordpress.com/past-ewrl/ewrl16-2023/), Brussels, Belgium, 2023
 
-- [**DDEW03 (Mathematical and Statistical Foundation of Future Data-Driven Engineering - Workshop on Computational Challenges and Emerging Tools)**](https://www.newton.ac.uk/event/ddew03/), Cambridge, UK, 2022
+- [**Mathematical and Statistical Foundation of Future Data-Driven Engineering - Workshop on Computational Challenges and Emerging Tools (DDEW03)**](https://www.newton.ac.uk/event/ddew03/), Cambridge, UK, 2022
 
-- [**SIAM CSE23 (SIAM Conference on Computational Science and Engineering)**](https://www.siam.org/conferences-events/past-event-archive/cse23/), Amsterdam, Netherlands, 2023
+- [**SIAM Conference on Computational Science and Engineering (SIAM CSE23)**](https://www.siam.org/conferences-events/past-event-archive/cse23/), Amsterdam, Netherlands, 2023
 
-- [**EDRFCM 2022 (European Drag Reduction and Flow Control Meeting)**](https://www.ercoftac.org/events/edrfcm2022/), Paris, France, 2022
-
+- [**European Drag Reduction and Flow Control Meeting (EDRFCM 2022)**](https://www.ercoftac.org/events/edrfcm2022/), Paris, France, 2022
 
 
 
