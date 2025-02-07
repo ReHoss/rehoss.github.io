@@ -58,8 +58,8 @@ I have been a teaching assistant for the following courses:
 - **[Data Science Project](https://masterofscience-ia.com/the-program/)** – CentraleSupélec
   - Research advisor for 2nd-year students
   - Project: *Adversarial Robustness of Deep Learning classifiers for Airborne Collision Avoidance Systems*
-  - **Principal Lecturer:** [W. Ouerdane](https://wassilaouerdane.github.io/)
   - In partnership with IRT SystemX. References: [[1]](https://www.eurocontrol.int/system/acas), [[2]](https://arxiv.org/abs/2111.09961), [[3]](https://arxiv.org/abs/1706.06083)
+  - **Principal Lecturer:** [W. Ouerdane](https://wassilaouerdane.github.io/)
 
 
 ## Attendance
