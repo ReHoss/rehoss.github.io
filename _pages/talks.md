@@ -29,7 +29,7 @@ LISN[^lisn] Mechanics Department Seminar - LISN[^lisn], Orsay, France, 2024
 [[slides]]({{ site.baseurl }}/files/talks_slides/main_meca_slides.pdf)
 
 - **Reinforcement Learning as Optimal Control for Shear Flows**  
-European Drag Reduction and Flow Control Meeting (EDRFCM 2022) - CNAM, Paris, France, 2022      
+European Drag Reduction and Flow Control Meeting (EDRFCM 2022) - CNAM[^cnam], Paris, France, 2022      
 [[slides]]({{ site.baseurl }}/files/talks_slides/edrfcm_2022_hosseinkhan.pdf})
 
 
@@ -44,8 +44,10 @@ European Workshop on Reinforcement Learning (EWRL) - Toulouse, France, 2024
 6th Annual Learning for Dynamics & Control Conference (L4DC24) - Oxford, UK, 2024  
 [[poster]]({{ site.baseurl }}/files/posters/l4dc2024_poster_hosseinkhan.pdf)
 
+---
 
 #### Acronyms
 [^siam]: *SIAM* - Society for Industrial and Applied Mathematics  
 [^tau]: *TAU* - TAckling the Underspecified
 [^lisn]: *LISN* - Laboratoire Interdisciplinaire des Sciences du Numérique (Interdisciplinary Laboratory of Digital Sciences)
+[^cnam]: *CNAM* - Conservatoire National des Arts et Métiers
