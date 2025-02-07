@@ -13,7 +13,7 @@ author_profile: true
 ## Talks
 
 - **Learning-based Control on Dynamical Systems**  
-TAU[^tau] Seminar - LISN, Orsay, France, 2024  
+TAU[^tau] Seminar - LISN[^lisn], Orsay, France, 2024  
 [[slides]]({{ site.baseurl }}/files/talks_slides/tau_seminar_slides.pdf)
 
 - **Exploration Strategies in Reinforcement Learning: Maximum Entropy optimisation applied to chaotic PDE control**  
@@ -25,7 +25,7 @@ Optimization and Learning Conference ’24 (OLA24) - Dubrovnik, Croatia, 2024
 [[slides]]({{ site.baseurl }}/files/talks_slides/ola24_slides.pdf)
 
 - **Gaussian Process Regression on Vector Fields and Uncertainty Quantification**    
-LISN[^lisn] Mechanics Department Seminar - LISN, Orsay, France, 2024  
+LISN[^lisn] Mechanics Department Seminar - LISN[^lisn], Orsay, France, 2024  
 [[slides]]({{ site.baseurl }}/files/talks_slides/main_meca_slides.pdf)
 
 - **Reinforcement Learning as Optimal Control for Shear Flows**  
@@ -41,7 +41,7 @@ European Workshop on Reinforcement Learning (EWRL) - Toulouse, France, 2024
 [[poster]]({{ site.baseurl }}/files/posters/ewrl2024_poster_hosseinkhan.pdf)
 
 - **Increasing Information for Model Predictive Control with Semi-Markov Decision Processes**  
-6th Annual Learning for Dynamics & Control Conference (L4DC24) (L4DC) - Oxford, UK, 2024  
+6th Annual Learning for Dynamics & Control Conference (L4DC24) - Oxford, UK, 2024  
 [[poster]]({{ site.baseurl }}/files/posters/l4dc2024_poster_hosseinkhan.pdf)
 
 
