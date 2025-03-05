@@ -30,7 +30,7 @@ LISN[^lisn] Mechanics Department Seminar - LISN[^lisn], Orsay, France, 2024
 
 - **Reinforcement Learning as Optimal Control for Shear Flows**  
 European Drag Reduction and Flow Control Meeting (EDRFCM 2022) - CNAM[^cnam], Paris, France, 2022      
-[[slides]]({{ site.baseurl }}/files/talks_slides/edrfcm_2022_hosseinkhan.pdf})
+[[slides]]({{ site.baseurl }}/files/talks_slides/edrfcm_2022_hosseinkhan.pdf)
 
 
 

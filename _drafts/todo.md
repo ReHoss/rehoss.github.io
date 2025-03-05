@@ -20,4 +20,7 @@ Possible fields to add:
 
 List of talks:
 
-- SIAM CSE 2023
+##### Shell
+```shell
+bundle exec jekyll serve --baseurl=""
+```
