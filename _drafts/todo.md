@@ -22,5 +22,5 @@ List of talks:
 
 ##### Shell
 ```shell
-bundle exec jekyll serve --baseurl=""
+bundle exec jekyll serve --host=localhost --baseurl=""
 ```

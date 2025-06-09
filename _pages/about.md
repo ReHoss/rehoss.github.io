@@ -6,8 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third year PhD candidate in Reinforcement Learning at Université Paris-Saclay, working on **Learning-based Control of Dynamical Systems with applications in Computational Fluid Dynamics**.
-My research is supervised by [Anne Vilnat](https://perso.limsi.fr/anne/), [Onofrio Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en), and [Lionel Mathelin](https://perso.limsi.fr/mathelin/).
+Hello! I recently completed my PhD in Reinforcement Learning at Université Paris-Saclay, where I worked on **Learning-based Control of Dynamical Systems with applications in Computational Fluid Dynamics**.
+My research was supervised by [Anne Vilnat](https://perso.limsi.fr/anne/), [Onofrio Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en), and [Lionel Mathelin](https://perso.limsi.fr/mathelin/).
+My PhD thesis is available [here]({{ site.baseurl }}/files/thesis/hosseinkhan_2025_phd_thesis.pdf).
 
 Before, I was a research intern at [Inria TAU](https://team.inria.fr/tau2/team-members/), where I worked on Learning-based methods for Stiff Differential Equations: Koopman operator theory and Physics-Informed Neural Networks (PINNs) under the supervision of [Michele-Alessandro Bucci](https://www.researchgate.net/profile/Michele-Bucci), [Thibault Faney](https://scholar.google.fr/citations?user=6mNJCMUAAAAJ&hl=fr), [Cédric Mehl](https://scholar.google.fr/citations?user=6m0FNwIAAAAJ&hl=fr) and [Marc Schoenauer](https://www.lri.fr/~marc/).  
 I have also been a research intern in several R&D departments such as [Capital Fund Management (CFM)](https://www.cfm.fr/) (Anomaly Detection in Time Series), [BNP Paribas Real Estate](https://www.realestate.bnpparibas.com/) (Machine Learning for Real Estate Market Analysis), and [Luxurynsight](https://www.luxurynsight.com/) (Deep Learning for Natural Language Processing).
@@ -39,7 +40,12 @@ I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.
 
 ## Students
 ### Internships
-- **2023:** [Stella Douka](https://scholar.google.com/citations?user=bV4mjlQAAAAJ&hl=en), Université Paris-Saclay, [M.Sc. in Artificial Intelligence](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-et-intelligence-artificielle)
+- **2025** [Eliott Pradeleix](https://www.linkedin.com/in/eliott-pradeleix-87b550258), École Polytechnique  
+ *Topic: Learning Dynamics driven by Delay Differential Equations*  
+ *Role: Co-advisor with [A. Shilova](https://aleshi94.github.io/home/), [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
+
+
+- **2023:** [Stella Douka](https://scholar.google.com/citations?user=bV4mjlQAAAAJ&hl=en), Université Paris-Saclay, [M.Sc. in Artificial Intelligence](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-et-intelligence-artificielle)  
   *Topic: Gaussian Process-based Model Predictive Control with Mutual Information criterion.*  
   Led to a publication in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/v242/hosseinkhan-boucher24a.html).  
   *Role: Co-advisor with [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
@@ -78,6 +84,7 @@ I have been a teaching assistant for the following courses:
 
 
 ## Peer Review
-- **2024:** [Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
-- **2024:** [European Workshop on Reinforcement Learning](https://ewrl.wordpress.com/)
-- **2023:** [IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)
+- **2025:** [International Conference on Machine Learning (ICML)](https://icml.cc/)
+- **2024:** [Journal of Fluid Mechanics (JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
+- **2024:** [European Workshop on Reinforcement Learning (EWRL)](https://ewrl.wordpress.com/)
+- **2023:** [IEEE Transactions on Automatic Control (TAC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)
