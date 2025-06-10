@@ -12,6 +12,10 @@ author_profile: true
 
 ## Talks
 
+- **PhD Defense: On Learning-based Control of Dynamical Systems: Application to Flow Control**  
+PhD Defense - LISN[^lisn], Orsay, France, 2025  
+[[slides]]({{ site.baseurl }}/files/talks_slides/phd_defense_slides.pdf)
+
 - **Learning-based Control on Dynamical Systems**  
 TAU[^tau] Seminar - LISN[^lisn], Orsay, France, 2024  
 [[slides]]({{ site.baseurl }}/files/talks_slides/tau_seminar_slides.pdf)
