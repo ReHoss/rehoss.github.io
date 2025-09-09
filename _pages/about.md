@@ -41,7 +41,8 @@ I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.
 ## Students
 ### Internships
 - **2025** [Eliott Pradeleix](https://www.linkedin.com/in/eliott-pradeleix-87b550258), École Polytechnique  
- *Topic: Learning Dynamics driven by Delay Differential Equations*  
+ *Topic: Learning Dynamics driven by Delay Differential Equations with Signature-based Encoders*  
+  Led to a publication in the [Proceedings of Machine Learning Research (PMLR)]({{ site.url }}/files/papers/paper_neural_laplace_signature.pdf).  
  *Role: Co-advisor with [A. Shilova](https://aleshi94.github.io/home/), [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
 
 
