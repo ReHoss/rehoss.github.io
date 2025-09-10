@@ -42,13 +42,13 @@ I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.
 ### Internships
 - **2025** [Eliott Pradeleix](https://www.linkedin.com/in/eliott-pradeleix-87b550258), École Polytechnique  
  *Topic: Learning Dynamics driven by Delay Differential Equations with Signature-based Encoders*  
-  Led to a publication in the [Proceedings of Machine Learning Research (PMLR)]({{ site.url }}/files/papers/paper_neural_laplace_signature.pdf).  
+  Led to a [publication]({{ site.url }}/files/papers/paper_neural_laplace_signature.pdf) in the Proceedings of Machine Learning Research (PMLR).  
  *Role: Co-advisor with [A. Shilova](https://aleshi94.github.io/home/), [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
 
 
 - **2023:** [Stella Douka](https://scholar.google.com/citations?user=bV4mjlQAAAAJ&hl=en), Université Paris-Saclay, [M.Sc. in Artificial Intelligence](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-et-intelligence-artificielle)  
   *Topic: Gaussian Process-based Model Predictive Control with Mutual Information criterion.*  
-  Led to a publication in the [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/v242/hosseinkhan-boucher24a.html).  
+  Led to a [publication](https://proceedings.mlr.press/v242/hosseinkhan-boucher24a.html) in the Proceedings of Machine Learning Research (PMLR).  
   *Role: Co-advisor with [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
 
 ## Teaching
