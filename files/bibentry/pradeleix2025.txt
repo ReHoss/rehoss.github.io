@@ -1,0 +1,9 @@
+@misc{pradeleix2025,
+      title={Learning non-Markovian Dynamical Systems with Signature-based Encoders},
+      author={Eliott Pradeleix and Rémy Hosseinkhan-Boucher and Alena Shilova and Onofrio Semeraro and Lionel Mathelin},
+      year={2025},
+      eprint={2509.12022},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.12022},
+}

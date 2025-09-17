@@ -29,7 +29,7 @@ I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.
 - **Learning non-Markovian Dynamical Systems with Signature-based Encoders**  
   *Eliott Pradeleix, Rémy Hosseinkhan-Boucher, Alena Shilova, Onofrio Semeraro, Lionel Mathelin*  
   *Proceedings of the ECAI Workshop on "Machine Learning Meets Differential Equations: From Theory to Applications", PMLR, 2025*  
-  [Paper Link](files/papers/paper_neural_laplace_signature.pdf) | [arXiv]() | [BibTeX]()
+  [Paper Link](files/papers/paper_neural_laplace_signature.pdf) | [arXiv](https://www.arxiv.org/abs/2509.12022) | [BibTeX](files/bibentry/pradeleix2025.txt)
 
 - **Increasing Information for Model Predictive Control with Semi-Markov Decision Processes**  
   *Rémy Hosseinkhan Boucher, Stella Douka, Onofrio Semeraro, Lionel Mathelin*  
