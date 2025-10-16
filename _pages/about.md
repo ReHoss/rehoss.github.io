@@ -27,17 +27,17 @@ I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.
 ## Publications
 
 - **Learning non-Markovian Dynamical Systems with Signature-based Encoders**  
-  *Eliott Pradeleix, Rémy Hosseinkhan-Boucher, Alena Shilova, Onofrio Semeraro, Lionel Mathelin*  
+  *E. Pradeleix, R. Hosseinkhan-Boucher, A. Shilova, O. Semeraro, L. Mathelin*  
   *Proceedings of the ECAI Workshop on "Machine Learning Meets Differential Equations: From Theory to Applications", PMLR, 2025*  
-  [Paper Link](files/papers/paper_neural_laplace_signature.pdf) | [arXiv](https://www.arxiv.org/abs/2509.12022) | [BibTeX](files/bibentry/pradeleix2025.txt)
+  [Paper Link](https://proceedings.mlr.press/v277/pradeleix25a.html) | [arXiv](https://www.arxiv.org/abs/2509.12022) | [BibTeX](files/bibentry/pradeleix2025.txt)
 
 - **Increasing Information for Model Predictive Control with Semi-Markov Decision Processes**  
-  *Rémy Hosseinkhan Boucher, Stella Douka, Onofrio Semeraro, Lionel Mathelin*  
+  *R. Hosseinkhan-Boucher, S. Douka, O. Semeraro, L. Mathelin*  
   *Proceedings of the 6th Annual Learning for Dynamics & Control Conference, PMLR, 2024*  
   [Paper Link](https://proceedings.mlr.press/v242/hosseinkhan-boucher24a.html) | [arXiv](https://arxiv.org/abs/2501.17256) | [BibTeX](files/bibentry/hosseinkhan2024.txt)
 
 - **Evidence on the Regularisation Properties of Maximum-Entropy Reinforcement Learning**  
-  *Rémy Hosseinkhan Boucher, Onofrio Semeraro, Lionel Mathelin*  
+  *R. Hosseinkhan-Boucher, O. Semeraro, L. Mathelin*  
   *Optimization and Learning, Springer Nature Switzerland, 2025*  
   [Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-77941-1_10) | [arXiv](https://arxiv.org/abs/2501.17115) | [BibTeX](files/bibentry/hosseinkhan2025.txt)
 
@@ -45,15 +45,20 @@ I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.
 
 ### Internships
 
+- **2025-26** [Joachim Jobard](linkedin.com/in/joachim-jobard-80490a209), École Centrale Lyon -
+  KTH Royal Institute of Technology  
+  *Topic:* **Learning-based Dynamic Prorgamming on Functional Differential Equations**  
+  *Role: Co-advisor with [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
+
 - **2025** [Eliott Pradeleix](https://www.linkedin.com/in/eliott-pradeleix-87b550258), École Polytechnique  
-  *Topic: Learning Functional Differential Equations with Signature-based Encoders*  
-  Led to a [publication]({{ site.url }}/files/papers/paper_neural_laplace_signature.pdf) in the Proceedings of Machine Learning Research (PMLR).  
+  *Topic:* **Learning Functional Differential Equations with Signature-based Encoders**  
+  Led to a [publication](https://proceedings.mlr.press/v277/pradeleix25a.html) in the Proceedings of Machine Learning Research (PMLR).  
   *Role: Co-advisor with [A. Shilova](https://aleshi94.github.io/home/), [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
 
 
 - **2023:** [Stella Douka](https://scholar.google.com/citations?user=bV4mjlQAAAAJ&hl=en), Université
   Paris-Saclay, [M.Sc. in Artificial Intelligence](https://www.universite-paris-saclay.fr/en/education/master/mathematics-and-applications/m2-mathematiques-et-intelligence-artificielle)  
-  *Topic: Gaussian Process-based Model Predictive Control with Mutual Information criterion.*  
+  *Topic:* **Gaussian Process-based Model Predictive Control with Mutual Information criterion**  
   Led to a [publication](https://proceedings.mlr.press/v242/hosseinkhan-boucher24a.html) in the Proceedings of Machine Learning Research (PMLR).  
   *Role: Co-advisor with [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
 
