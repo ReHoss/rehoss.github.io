@@ -11,7 +11,7 @@ locale                   : "en-UK"
 title                    : "Rémy Hosseinkhan-Boucher"
 title_separator          : "-"
 name                     : &name "Rémy Hosseinkhan-Boucher"
-description              : &description "PhD Student in Reinforcement Learning at the Paris-Saclay University"
+description              : &description "Researcher in Reinforcement Learning at the Paris-Saclay University"
 url                      : https://rehoss.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ReHoss/rehoss.github.io"
@@ -304,6 +304,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:
