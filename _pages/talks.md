@@ -40,6 +40,10 @@ European Drag Reduction and Flow Control Meeting (EDRFCM 2022) - CNAM[^cnam], Pa
 
 ## Posters
 
+- **Learning non-Markovian Dynamical Systems with Signature-based Encoders**  
+  European Conference on Artificial Intelligence (ECAI) Workshop: Machine Learning Meets Differential Equations (ML-DE) - Bologna, Italy, 2025  
+  [[poster]]()
+
 - **Evidence on the regularisation properties of Maximum-Entropy Reinforcement Learning**  
 European Workshop on Reinforcement Learning (EWRL) - Toulouse, France, 2024  
 [[poster]]({{ site.baseurl }}/files/posters/ewrl2024_poster_hosseinkhan.pdf)
