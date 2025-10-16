@@ -14,7 +14,7 @@ Possible fields to add:
 - Bio/CV
 - Alumni
 - News
-- In publications: Preprint
+- In publications: Preprint category
 - Research, a paragraph description
 
 

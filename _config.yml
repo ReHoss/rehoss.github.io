@@ -305,6 +305,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
   - jekyll-seo-tag
+  - jekyll-last-modified-at # @ReHoss: Added by me
 
 # Mimic GitHub Pages with --safe
 whitelist:

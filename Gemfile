@@ -28,6 +28,7 @@ group :jekyll_plugins do
   gem 'jemoji'
 #   gem 'webrick', '~> 1.8'
   gem 'webrick'
+  gem "jekyll-last-modified-at"  # @ReHoss: added by me
 end
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
