@@ -67,14 +67,15 @@ I hold an [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www
 I have been a teaching assistant for the following courses:
 
 - **[Reinforcement Learning (M2 Artificial Intelligence)](https://www.universite-paris-saclay.fr/formation/master/informatique/m2-artificial-intelligence#presentation)** - Université Paris-Saclay
+    - Supervise practical sessions and final exam
     - **Principal Lecturer:** [L. Mathelin](https://perso.limsi.fr/mathelin/)
 
 - **[Advanced Deep Learning (MVA Program)](https://www.lri.fr/~gcharpia/deeppractice/)** – ENS Paris-Saclay
-    - Supervising the *Machine Learning for Physics and Interpretability* modules
+    - Supervised the *Machine Learning for Physics and Interpretability* modules
     - **Principal Lecturer:** [G. Charpiat](https://www.lri.fr/~gcharpia/)
 
 - **[C++ Programming](https://www.iut-orsay.universite-paris-saclay.fr/informatique-en-3-ans#home141157)** – Université Paris-Saclay
-    - Teaching *Object-Oriented Programming* to 1st-year students
+    - Taught *Object-Oriented Programming* to 1st-year students
     - **Principal Lecturers:** [C. Balkanski](https://www.linkedin.com/in/c%C3%A9cile-balkanski-04a11b71/), [H. Bonneau](https://www.researchgate.net/profile/Helene-Bonneau-Maynard)
 
 - **[Data Science Project](https://masterofscience-ia.com/the-program/)** – CentraleSupélec
