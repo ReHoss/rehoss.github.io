@@ -13,7 +13,7 @@ My PhD thesis is available [here]({{ site.baseurl }}/files/thesis/hosseinkhan_20
 Before, I was a research intern at [Inria TAU](https://team.inria.fr/tau2/team-members/), where I worked on Learning-based methods for Stiff Differential Equations: Koopman operator theory and Physics-Informed Neural Networks (PINNs) under the supervision of [Michele-Alessandro Bucci](https://www.researchgate.net/profile/Michele-Bucci), [Thibault Faney](https://scholar.google.fr/citations?user=6mNJCMUAAAAJ&hl=fr), [Cédric Mehl](https://scholar.google.fr/citations?user=6m0FNwIAAAAJ&hl=fr) and [Marc Schoenauer](https://www.lri.fr/~marc/).  
 I have also been a research intern in several R&D departments such as [Capital Fund Management (CFM)](https://www.cfm.fr/) (Anomaly Detection in Time Series), [BNP Paribas Real Estate](https://www.realestate.bnpparibas.com/) (Machine Learning for Real Estate Market Analysis), and [Luxurynsight](https://www.luxurynsight.com/) (Deep Learning for Natural Language Processing).
 
-I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.masteriasd.eu/fr/), a [MSc in Statistics and Financial Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications/m2-ingenierie-statistique-et-financiere) and a [BSc in Applied Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications) (probability and statistics)  at Université Paris Dauphine - PSL.
+I hold an [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.masteriasd.eu/fr/), an [MSc in Statistics and Financial Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications/m2-ingenierie-statistique-et-financiere) and a [BSc in Applied Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications) (probability and statistics)  at Université Paris Dauphine - PSL.
 
 ---
 
@@ -45,12 +45,12 @@ I hold a [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.
 
 ### Internships
 
-- **2025-26** [Joachim Jobard](linkedin.com/in/joachim-jobard-80490a209), École Centrale Lyon -
+- **2025-26:** [Joachim Jobard](linkedin.com/in/joachim-jobard-80490a209), École Centrale Lyon -
   KTH Royal Institute of Technology  
-  *Topic:* **Learning-based Dynamic Prorgamming on Functional Differential Equations**  
+  *Topic:* **Learning-based Dynamic Programming on Functional Differential Equations**  
   *Role: Co-advisor with [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
 
-- **2025** [Eliott Pradeleix](https://www.linkedin.com/in/eliott-pradeleix-87b550258), École Polytechnique  
+- **2025:** [Eliott Pradeleix](https://www.linkedin.com/in/eliott-pradeleix-87b550258), École Polytechnique  
   *Topic:* **Learning Functional Differential Equations with Signature-based Encoders**  
   Led to a [publication](https://proceedings.mlr.press/v277/pradeleix25a.html) in the Proceedings of Machine Learning Research (PMLR).  
   *Role: Co-advisor with [A. Shilova](https://aleshi94.github.io/home/), [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*

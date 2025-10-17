@@ -19,7 +19,7 @@ Read reviewers instructions to understand what is asked
 
 Latex
 Typst (promising tool)
-
+Create a website
 Microsoft how to write a great paper
 https://icml.cc/Conferences/2025/ReviewerInstructions
 
