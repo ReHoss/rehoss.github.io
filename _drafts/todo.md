@@ -24,3 +24,7 @@ List of talks:
 ```shell
 bundle exec jekyll serve --host=localhost --baseurl=""
 ```
+
+
+#### Favicon
+https://realfavicongenerator.net/
