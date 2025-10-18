@@ -1,7 +1,7 @@
 # Some references
 
 
-- Official tutorial
+- Official tutorial even for your tools (Vim, VSCode, PyCharm)
 
 ##
 
