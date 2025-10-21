@@ -1,6 +1,6 @@
 ---
 permalink: /guide_ml_research/
-title: "Advice and Resources for Machine Learning Researchers"
+title: "Advice and Resources for New Machine Learning Researchers"
 author_profile: true
 ---
 
@@ -30,11 +30,16 @@ This highlights weaknesses of contributions that can be addressed in future/new 
 - **Pay attention to [HARKing](https://en.wikipedia.org/wiki/HARKing)** (Hypothesizing After the Results are Known).
 This is a common pitfall in research that can lead to misleading conclusions. (It happened to me!)
 A nice [paper](https://arxiv.org/abs/1904.07633) on the topic in Deep Learning.
- 
 
 - **Know reviewers instructions** and criteria for conferences/journals you are submitting to. This helps you understand what is expected from your work. ICML reviewer guidelines [here](https://icml.cc/Conferences/2025/ReviewerInstructions).
 
 - **Review papers for journals or conferences**
+
+- **Try to keep a research journal** to document your ideas, experiments, and findings.
+Be **verbose**! This provides context for humans and AIs. For now, the main vector of information with AI assistants is natural language (text).
+
+- Follow the _Observation - Question/Problem - Hypothesis/Method - Experiment - Analysis - Conclusion_ framework for structuring your research process.
+This discipline helps in maintaining clarity and rigor throughout your research journey. Prevents harking and other biases.
 
 ### Bibliography
 - Store your bibliography files and construct your **OWN** library
@@ -48,7 +53,7 @@ The latter tool greatly simplifies scanning and attaching handwritten notes to a
 - Ask your local academic writing center for help.
 - Write *before* using AI tools.
 
-#### Softwares
+#### Software
 - Latex
 - Typst (promising tool)
 
@@ -60,7 +65,7 @@ The latter tool greatly simplifies scanning and attaching handwritten notes to a
 - Don't try to put the same level of details in a talk as in a paper.
   Try to be clear and transmit the essential ideas.
 - If you are an intern, consider yourself as a researcher and play this role in your presentations.
-- Mention you sponsors and collaborators.
+- Mention your sponsors and collaborators.
 - Add a QR code to your slides/poster to link to your paper or website.
 
 #### Software for presentations
@@ -87,7 +92,7 @@ Here are some popular platforms:
 - Discord
 - Hugging Face
 - Reddit
-- Stackoverflow
+- StackExchange (e.g. [Academia StackExchange](https://academia.stackexchange.com/))
 - X
 - YouTube
 
@@ -96,7 +101,7 @@ Personal blogs and articles are always a great source of inspiration and knowled
 Some notable mentions are:
 
 - P. Kidger [blog](https://kidger.site/thoughts/) and in particular his advice on [how to achieve success in ML research](https://kidger.site/thoughts/just-know-stuff/).
-- J. Schulman [blog](http://joschu.net/blog.html).
+- J. Schulman [blog](http://joschu.net/blog.html), in particular his [guide on ML research](http://joschu.net/blog/opinionated-guide-ml-research.html).
 - Lilian Weng [blog](https://lilianweng.github.io/).
 - Terrence Tao [blog](https://terrytao.wordpress.com/).
 
@@ -115,8 +120,8 @@ _Following those principles eliminate lots of bugs and thus reduces **uncertaint
 - [PEP 8](https://peps.python.org/pep-0008/)
 - [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Python packaging](https://packaging.python.org/en/latest/tutorials/installing-packages/)
-- Ruff (state-of-the-art linter)
-- Pyright (state-of-the-art type checker; avoid tons of bugs and logical flaws)
+- [Ruff](https://docs.astral.sh/ruff/) (state-of-the-art linter)
+- [Pyright](https://microsoft.github.io/pyright/#/) (state-of-the-art type checker; avoid tons of bugs and logical flaws)
 
 ### Reproducibility
 - Fix the seed !
@@ -129,8 +134,8 @@ _Following those principles eliminate lots of bugs and thus reduces **uncertaint
 ### Software Engineering
 - Git
 - Docker
-- Singularity
-- Spack
+- [Singularity](https://docs.sylabs.io/guides/4.3/user-guide/) (containerization for HPC)
+- [Spack](https://spack.io/) (package manager for HPC)
 - Bash
 - [Slurm](https://slurm.schedmd.com/documentation.html)
 
