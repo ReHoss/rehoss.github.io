@@ -18,16 +18,19 @@ They have been gathered from many sources collected over time (blog posts, artic
 ## 🔬 Research
 ### Approach
 - **During investigations, <span style="color:red;">reduce</span> as much <span style="color:red;">uncertainty</span> as possible to extract clear signals**.
+
+- **Read papers entirely** this makes you feel you are doing proper research, meticulous and thorough. It also helps you to better understand the research methodology (experiments, metrics, etc.).
+Moreover, choose landmark papers in your field to avoid loosing yourself in the vast amount of literature.
  
 - **Read paper reviews**.
 This is useful to understand what the community expects from a good paper.
 This highlights weaknesses of contributions that can be addressed in future/new works.
+[OpenReview](https://openreview.net/) is a great platform to access reviews of papers from major ML conferences.
 
 - **Pay attention to [HARKing](https://en.wikipedia.org/wiki/HARKing)** (Hypothesizing After the Results are Known).
 This is a common pitfall in research that can lead to misleading conclusions. (It happened to me!)
 A nice [paper](https://arxiv.org/abs/1904.07633) on the topic in Deep Learning.
  
-- **Read papers entirely** this makes you feel you are doing proper research, meticulous and thorough.
 
 - **Know reviewers instructions** and criteria for conferences/journals you are submitting to. This helps you understand what is expected from your work. ICML reviewer guidelines [here](https://icml.cc/Conferences/2025/ReviewerInstructions).
 
@@ -57,7 +60,8 @@ The latter tool greatly simplifies scanning and attaching handwritten notes to a
 - Don't try to put the same level of details in a talk as in a paper.
   Try to be clear and transmit the essential ideas.
 - If you are an intern, consider yourself as a researcher and play this role in your presentations.
-
+- Mention you sponsors and collaborators.
+- Add a QR code to your slides/poster to link to your paper or website.
 
 #### Software for presentations
 - [Beamer](https://www.overleaf.com/learn/latex/Beamer)
@@ -116,8 +120,9 @@ _Following those principles eliminate lots of bugs and thus reduces **uncertaint
 
 ### Reproducibility
 - Fix the seed !
+- Use configuration files (YAML, JSON, TOML, etc.). Possibly use schemas to validate them.
 - Add timestamps everywhere !
-- MLFlow, Hydra, WnB
+- Experiment trackers MLFlow, [Hydra](https://hydra.cc/), [Weights & Biases](https://wandb.ai/site)
 - Create a repository containing all your meeting reports and others documents you produce
 - Monitoring is key: visualise your results as much as possible
 
@@ -127,6 +132,7 @@ _Following those principles eliminate lots of bugs and thus reduces **uncertaint
 - Singularity
 - Spack
 - Bash
+- [Slurm](https://slurm.schedmd.com/documentation.html)
 
 <br>
 
