@@ -24,9 +24,9 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Rémy Hosseinkhan-Boucher"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Reinforcement Learning at the Paris-Saclay University"
+  bio              : "PhD in Reinforcement Learning @ Paris-Saclay University"
   location         : #"Earth"
-  employer         : #"Paris-Saclay University - DATAFLOT - Inria TAU"
+#  employer         : "Paris-Saclay University - DATAFLOT - Inria TAU"
   uri              : # URL
   email            : "remy.hosseinkhan(@)universite-paris-saclay.fr"
 

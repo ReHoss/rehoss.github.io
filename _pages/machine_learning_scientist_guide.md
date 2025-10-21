@@ -8,19 +8,20 @@ Below is a collection of methods and tools to make your life as a machine learni
 They have been gathered from many sources collected over time (blog posts, articles, personal experience, discussions with colleagues, etc.).
 
 
-## Mindset
+## 🧠 Mindset
 - Always be open to new knowledge (see P. Kidger's detailed [blog post](https://kidger.site/thoughts/just-know-stuff/))
 - Make contacts and don't be shy to interact with anyone
 - Critical thinking and humility
 
+<br>
 
-## Research
+## 🔬 Research
 ### Approach
+- **During investigations, <span style="color:red;">reduce</span> as much <span style="color:red;">uncertainty</span> as possible to extract clear signals**.
+ 
 - **Read paper reviews**.
 This is useful to understand what the community expects from a good paper.
 This highlights weaknesses of contributions that can be addressed in future/new works.
-
-- **During investigations, remove as much uncertainty as possible to extract clear signals**.
 
 - **Pay attention to [HARKing](https://en.wikipedia.org/wiki/HARKing)** (Hypothesizing After the Results are Known).
 This is a common pitfall in research that can lead to misleading conclusions. (It happened to me!)
@@ -95,9 +96,9 @@ Some notable mentions are:
 - Lilian Weng [blog](https://lilianweng.github.io/).
 - Terrence Tao [blog](https://terrytao.wordpress.com/).
 
+<br>
 
-
-## Programming practices and software tools
+## 🧑‍💻 Programming practices and software tools
 
 Read the official tutorial for any tools (from Vim, VSCode, Git to Pytorch or Docker).
 Those presentations are often advanced resources which contain important terminology.
@@ -127,6 +128,8 @@ _Following those principles eliminate lots of bugs and thus reduces **uncertaint
 - Spack
 - Bash
 
-## Teaching
+<br>
+
+## 🧑‍🏫 Teaching
 - Prepare your lectures in advance
 - Use your website to share materials
