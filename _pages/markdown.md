@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 
+
+<!--
+@ReHoss this is a tutorial page on how to use markdown and other features of Academic Pages.
+-->
+
 <!--
 
 ## Locations of key files/directories
