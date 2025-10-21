@@ -47,12 +47,12 @@ A nice [paper](https://arxiv.org/abs/1904.07633) on the topic in Deep Learning.
   Try to be clear and transmit the essential ideas.
 - If you are an intern, consider yourself as a researcher and play this role in your presentations.
 
-TODO: Fix
+
 #### Tools for presentations
-- [Beamer](https://ctan.org/pkg/beamer?lang=en)
-- [Apple Keynote](https://www.apple.com/keynote/)
-- [Google Slides](https://www.google.com/slides/about/)
-- [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/power)
+- [Beamer](https://www.overleaf.com/learn/latex/Beamer)
+- Keynote (Apple)
+- Google Slides
+- Microsoft PowerPoint
 
 #### Poster creation tools
 - [Typst](https://typst.app/)
@@ -62,6 +62,7 @@ TODO: Fix
 _Your presence on social media can help you stay updated with the latest research, demonstrate your expertise and interests, connect with other researchers, and share your own work._
 Here are some popular platforms:
 - Discord
+- Hugging Face?
 - Reddit
 - Stackoverflow
 - X
@@ -84,12 +85,14 @@ Those presentations are often advanced resources which contain important termino
 
 
 ### Python
+_Following those principle eliminate lots of bugs and thus reduces uncertainties regarding your results._
+
 - [Offical Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [PEP 8](https://peps.python.org/pep-0008/)
 - [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Python packaging](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 - Ruff (state-of-the-art linter)
-- Pyright (state-of-the-art type checker)
+- Pyright (state-of-the-art type checker; avoid tons of buga and logical flaws)
 
 ### Reproducibility
 - Fix the seed !
@@ -108,3 +111,9 @@ Those presentations are often advanced resources which contain important termino
 ## Teaching
 - Prepare your lectures in advance
 - Make your own website
+
+
+- Store your bibliography and construct your OWN library
+- Use Zotero or similar tools to construct this library
+- Personal XP:
+
