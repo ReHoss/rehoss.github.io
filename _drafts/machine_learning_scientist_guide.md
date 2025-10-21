@@ -29,7 +29,7 @@ A nice [paper](https://arxiv.org/abs/1904.07633) on the topic in Deep Learning.
 - **Review papers for journals or conferences**
 
 ### Bibliography
-- Store your bibliography and construct your OWN library
+- Store your bibliography files and construct your **OWN** library
 - Use Zotero or similar tools (Google Drive) to construct this library
 - I personally use Google Drive synchronised on [PDFExpert](https://pdfexpert.com/) which allows to annotate documents with automatic synchronisation.
 The latter tool greatly simplifies scanning and attaching handwritten notes to articles or books.
@@ -78,7 +78,7 @@ The latter tool greatly simplifies scanning and attaching handwritten notes to a
 _Your presence on social media can help you stay updated with the latest research, demonstrate your expertise and interests, connect with other researchers, and share your own work._
 Here are some popular platforms:
 - Discord
-- Hugging Face?
+- Hugging Face
 - Reddit
 - Stackoverflow
 - X
@@ -102,14 +102,14 @@ Those presentations are often advanced resources which contain important termino
 
 
 ### Python
-_Following those principle eliminate lots of bugs and thus reduces **uncertainties** regarding your results._
+_Following those principles eliminate lots of bugs and thus reduces **uncertainties** regarding your results._
 
 - [Offical Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [PEP 8](https://peps.python.org/pep-0008/)
 - [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
 - [Python packaging](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 - Ruff (state-of-the-art linter)
-- Pyright (state-of-the-art type checker; avoid tons of buga and logical flaws)
+- Pyright (state-of-the-art type checker; avoid tons of bugs and logical flaws)
 
 ### Reproducibility
 - Fix the seed !
