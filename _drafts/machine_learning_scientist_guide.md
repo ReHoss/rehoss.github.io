@@ -26,6 +26,14 @@ A nice [paper](https://arxiv.org/abs/1904.07633) on the topic in Deep Learning.
 
 - **Know reviewers instructions** and criteria for conferences/journals you are submitting to. This helps you understand what is expected from your work. ICML reviewer guidelines [here](https://icml.cc/Conferences/2025/ReviewerInstructions).
 
+- **Review papers for journals or conferences**
+
+### Bibliography
+- Store your bibliography and construct your OWN library
+- Use Zotero or similar tools (Google Drive) to construct this library
+- I personally use Google Drive synchronised on [PDFExpert](https://pdfexpert.com/) which allows to annotate documents with automatic synchronisation.
+The latter tool greatly simplifies scanning and attaching handwritten notes to articles or books.
+
 
 ### Writing
 
@@ -48,15 +56,23 @@ A nice [paper](https://arxiv.org/abs/1904.07633) on the topic in Deep Learning.
 - If you are an intern, consider yourself as a researcher and play this role in your presentations.
 
 
-#### Tools for presentations
+#### Software for presentations
 - [Beamer](https://www.overleaf.com/learn/latex/Beamer)
 - Keynote (Apple)
 - Google Slides
 - Microsoft PowerPoint
 
-#### Poster creation tools
-- [Typst](https://typst.app/)
+#### Software for posters
+- [Typst](https://typst.app/) (Recommended)
+- [Beamer](https://www.overleaf.com/learn/latex/Beamer)
 - [Inkscape](https://inkscape.org/)
+
+
+### Communicating your research and building your profile
+- Social Media & Blogs
+- Conferences & Workshops
+- Create a personal website
+
 
 ### Online social media about AI/ML
 _Your presence on social media can help you stay updated with the latest research, demonstrate your expertise and interests, connect with other researchers, and share your own work._
@@ -78,6 +94,7 @@ Some notable mentions are:
 - Terrence Tao [blog](https://terrytao.wordpress.com/).
 
 
+
 ## Programming practices and software tools
 
 Read the official tutorial for any tools (from Vim, VSCode, Git to Pytorch or Docker).
@@ -85,7 +102,7 @@ Those presentations are often advanced resources which contain important termino
 
 
 ### Python
-_Following those principle eliminate lots of bugs and thus reduces uncertainties regarding your results._
+_Following those principle eliminate lots of bugs and thus reduces **uncertainties** regarding your results._
 
 - [Offical Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [PEP 8](https://peps.python.org/pep-0008/)
@@ -110,10 +127,4 @@ _Following those principle eliminate lots of bugs and thus reduces uncertainties
 
 ## Teaching
 - Prepare your lectures in advance
-- Make your own website
-
-
-- Store your bibliography and construct your OWN library
-- Use Zotero or similar tools to construct this library
-- Personal XP:
-
+- Use your website to share materials
