@@ -45,10 +45,11 @@ I hold an [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www
 
 ### Internships
 
-- **2025-26:** [Joachim Jobard](linkedin.com/in/joachim-jobard-80490a209), École Centrale Lyon -
+- **2025-26:** [Joachim Jobard](https://www.linkedin.com/in/joachim-jobard-80490a209), École Centrale Lyon -
   KTH Royal Institute of Technology  
   *Topic:* **Learning-based Dynamic Programming on Functional Differential Equations**  
   *Role: Co-advisor with [L. Mathelin](https://perso.limsi.fr/mathelin/) and [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en).*
+
 
 - **2025:** [Eliott Pradeleix](https://www.linkedin.com/in/eliott-pradeleix-87b550258), École Polytechnique  
   *Topic:* **Learning Functional Differential Equations with Signature-based Encoders**  
