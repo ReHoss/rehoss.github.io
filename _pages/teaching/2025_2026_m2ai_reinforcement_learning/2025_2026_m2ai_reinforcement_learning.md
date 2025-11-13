@@ -8,7 +8,10 @@ permalink: /teaching/2025_2026_m2ai_reinforcement_learning/
 
 ## General Resources
 
-Coming soon.
+Excellent resources for Reinforcement Learning:
+
+- [A. Agarwal, N. Jiang, S. M. Kakade, W. Sun - Reinforcement Learning: Theory and Algorithms (2022)](https://rltheorybook.github.io/rltheorybook_AJKS.pdf)
+- [J. Kwon - An Introduction to Reinforcement Learning From theory to algorithms (M2 INRAE, 2024)](https://joon-kwon.github.io/rl-ups/)
 
 ---
 
