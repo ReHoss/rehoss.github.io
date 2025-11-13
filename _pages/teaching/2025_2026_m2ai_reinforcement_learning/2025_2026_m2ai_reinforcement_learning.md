@@ -15,9 +15,14 @@ Excellent resources for Reinforcement Learning:
 
 ---
 
-## Notebooks
+## Course Material
 
-### Practical Session 1: Markov Decision Processes and Finite-Horizon Dynamic Programming
+### Lecture Slides
+* [Lecture]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/lectures/m2ai_2025_2026_reinforcement_learning_lectures.pdf)
+
+### Notebooks
+
+#### Practical Session 1: Markov Decision Processes and Finite-Horizon Dynamic Programming
 * [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_1.ipynb)
 
 
