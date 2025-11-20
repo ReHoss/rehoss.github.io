@@ -23,7 +23,7 @@ Excellent resources for Reinforcement Learning:
 ### Notebooks
 
 #### Practical Session 1: Markov Decision Processes and Finite-Horizon Dynamic Programming
-* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_1.ipynb)
+* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_1.ipynb) - [Solution]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_1_solution.ipynb)
 
-
-[//]: # (* [Test]&#40;{{ site.baseurl }}/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/practical_session1.ipynb&#41; [&#40;Solution&#41;]&#40;&#41;)
+#### Practical Session 2: Discounted Infinite-horizon Markov Decision Problems and Iterative Methods
+* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_2.ipynb)
