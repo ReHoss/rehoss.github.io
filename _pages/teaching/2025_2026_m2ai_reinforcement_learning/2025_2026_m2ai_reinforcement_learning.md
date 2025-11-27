@@ -26,4 +26,4 @@ Excellent resources for Reinforcement Learning:
 * [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_1.ipynb) - [Solution]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_1_solution.ipynb)
 
 #### Practical Session 2: Discounted Infinite-horizon Markov Decision Problems and Iterative Methods
-* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_2.ipynb)
+* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_2.ipynb) - [Solution]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_2_solution.ipynb)
