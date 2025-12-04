@@ -1,5 +1,9 @@
 # TODO
 
+27/11/2025:
+- Add https://packaging.python.org/en/latest/
+
+
 - Use N. Chopin .bib to .html converter
 - Add content to the guide section
 

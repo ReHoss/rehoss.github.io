@@ -29,4 +29,7 @@ Excellent resources for Reinforcement Learning:
 * [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_2.ipynb) - [Solution]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_2_solution.ipynb)
 
 #### Practical Session 3: Stochastic Approximation and Reinforcement Learning
-* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_3.ipynb)
+* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_3.ipynb) - [Solution]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_3_solution.ipynb)
+
+#### Practical Session 4: Approximation Methods in Reinforcement Learning
+* [Notebook]({{ site.baseurl }}/files/teaching/2025_2026_m2ai_reinforcement_learning/notebooks/m2ai_2025_2026_practical_session_4.ipynb)
