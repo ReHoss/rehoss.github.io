@@ -3,9 +3,11 @@
 27/11/2025:
 - Add https://packaging.python.org/en/latest/
 
+- Add teaching dates !!!
+- Remove neural laplace .pdf
+- LinkedIn update teaching and supervision of internships
 
-- Use N. Chopin .bib to .html converter
-- Add content to the guide section
+- Use N. Chopin .bib to .html converter -> No
 
 Inspiring webpages:
 - https://erachelson.github.io/
@@ -20,6 +22,7 @@ Possible fields to add:
 - News
 - In publications: Preprint category
 - Research, a paragraph description
+- Change website bibtex arxiv eliott 
 
 
 List of talks:
