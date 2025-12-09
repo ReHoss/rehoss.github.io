@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My academic CV is available [here]({{ site.url }}/files/main_academic_cv.pdf).
+My academic CV is available [here]({{ site.url }}/files/main_academic_cv_hosseinkhan.pdf).
 
 {% include base_path %}
 
