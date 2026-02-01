@@ -6,14 +6,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I recently completed my PhD in Reinforcement Learning at Université Paris-Saclay, where I worked on **Learning-based Control of Dynamical Systems with applications in Computational Fluid Dynamics**.
-My research was supervised by [Anne Vilnat](https://perso.limsi.fr/anne/), [Onofrio Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en), and [Lionel Mathelin](https://perso.limsi.fr/mathelin/).
-My PhD thesis is available [here]({{ site.baseurl }}/files/thesis/hosseinkhan_2025_phd_thesis.pdf).
+Hello!
+I am a **Post-doctoral researcher at Centre de Mathématiques Appliquées de l'École Polytechnique** ([CMAP](https://cmap.ip-paris.fr/)) in the [HPC@Maths](https://cmap.ip-paris.fr/en/research/analysis/hpcmaths) team.
 
-Before, I was a research intern at [Inria TAU](https://team.inria.fr/tau2/team-members/), where I worked on Learning-based methods for Stiff Differential Equations: Koopman operator theory and Physics-Informed Neural Networks (PINNs) under the supervision of [Michele-Alessandro Bucci](https://www.researchgate.net/profile/Michele-Bucci), [Thibault Faney](https://scholar.google.fr/citations?user=6mNJCMUAAAAJ&hl=fr), [Cédric Mehl](https://scholar.google.fr/citations?user=6m0FNwIAAAAJ&hl=fr) and [Marc Schoenauer](https://www.lri.fr/~marc/).  
+
+I recently completed my PhD in Reinforcement Learning at Université Paris-Saclay, where I worked on **Learning-based Control of Dynamical Systems with applications in Computational Fluid Dynamics**.  
+My research was supervised by [A. Vilnat](https://perso.limsi.fr/anne/), [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en), and [L. Mathelin](https://perso.limsi.fr/mathelin/) and my PhD thesis is available [here]({{ site.baseurl }}/files/thesis/hosseinkhan_2025_phd_thesis.pdf).
+
+Before, I was a research intern at [Inria TAU](https://team.inria.fr/tau2/team-members/), where I worked on Learning-based methods for Stiff Differential Equations: Koopman operator theory and Physics-Informed Neural Networks under the supervision of [M-A. Bucci](https://www.researchgate.net/profile/Michele-Bucci), [T. Faney](https://scholar.google.fr/citations?user=6mNJCMUAAAAJ&hl=fr), [C. Mehl](https://scholar.google.fr/citations?user=6m0FNwIAAAAJ&hl=fr) and [M. Schoenauer](https://www.lri.fr/~marc/).  
 I have also been a research intern in several R&D departments such as [Capital Fund Management (CFM)](https://www.cfm.fr/) (Anomaly Detection in Time Series), [BNP Paribas Real Estate](https://www.realestate.bnpparibas.com/) (Machine Learning for Real Estate Market Analysis), and [Luxurynsight](https://www.luxurynsight.com/) (Deep Learning for Natural Language Processing).
 
-I hold an [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www.masteriasd.eu/fr/), an [MSc in Statistics and Financial Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications/m2-ingenierie-statistique-et-financiere) and a [BSc in Applied Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications) (probability and statistics)  at Université Paris Dauphine - PSL.
+I hold an [MSc in Artificial Intelligence, Systems, and Data](https://www.masteriasd.eu/fr/), an [MSc in Statistics and Financial Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications/m2-ingenierie-statistique-et-financiere) and a [BSc in Applied Mathematics](https://dauphine.psl.eu/formations/masters/mathematiques-et-applications) (probability and statistics)  from Université Paris Dauphine - PSL.
 
 ---
 
@@ -67,13 +70,18 @@ I hold an [MSc in Artificial Intelligence, Systems, and Data (IASD)](https://www
 
 I have been a teaching assistant for the following courses:
 
+- **[Machine Learning for Scientific Computing and Numerical Analysis](https://hal.science/hal-04976856v1/file/APM52009.pdf)** - École Polytechnique, TU Eindhoven (EuroTeQ)
+    - Supervision of practical sessions and final exam
+    - **Principal Lecturers:** [H. Montanelli](https://hadrien-montanelli.github.io/),[V. Dolean](https://scholar.google.com/citations?user=ZzHAiHkAAAAJ&hl=en)
+
+
 - **[Reinforcement Learning (M2 Artificial Intelligence)](https://www.universite-paris-saclay.fr/formation/master/informatique/m2-artificial-intelligence#presentation)** - Université Paris-Saclay
     - [**Course materials**]({{ site.baseurl }}/teaching/2025_2026_m2ai_reinforcement_learning/)
-    - Supervise practical sessions and final exam
+    - Supervision of practical sessions and final exam
     - **Principal Lecturer:** [L. Mathelin](https://perso.limsi.fr/mathelin/)
 
 - **[Advanced Deep Learning (MVA Program)](https://www.lri.fr/~gcharpia/deeppractice/)** – ENS Paris-Saclay
-    - Supervised the *Machine Learning for Physics and Interpretability* modules
+    - Supervision the *Machine Learning for Physics and Interpretability* modules
     - **Principal Lecturer:** [G. Charpiat](https://www.lri.fr/~gcharpia/)
 
 - **[C++ Programming](https://www.iut-orsay.universite-paris-saclay.fr/informatique-en-3-ans#home141157)** – Université Paris-Saclay
