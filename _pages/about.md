@@ -79,7 +79,7 @@ I have been a teaching assistant for the following courses:
 
 - **[Machine Learning for Scientific Computing and Numerical Analysis](https://hal.science/hal-04976856v1/file/APM52009.pdf)** - École Polytechnique, TU Eindhoven (EuroTeQ)
     - Supervision of practical sessions and final exam
-    - **Principal Lecturers:** [H. Montanelli](https://hadrien-montanelli.github.io/),[V. Dolean](https://scholar.google.com/citations?user=ZzHAiHkAAAAJ&hl=en)
+    - **Principal Lecturers:** [H. Montanelli](https://hadrien-montanelli.github.io/), [V. Dolean](https://scholar.google.com/citations?user=ZzHAiHkAAAAJ&hl=en)
 
 
 - **[Reinforcement Learning (M2 Artificial Intelligence)](https://www.universite-paris-saclay.fr/formation/master/informatique/m2-artificial-intelligence#presentation)** - Université Paris-Saclay
