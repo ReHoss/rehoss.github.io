@@ -48,6 +48,13 @@ I hold an [MSc in Artificial Intelligence, Systems, and Data](https://www.master
 
 ### Internships
 
+- **2026:** [Salma Ouaissi](https://fr.linkedin.com/in/salma-ouaissi), ENSIMAG (Grenoble INP – Université Grenoble Alpes),
+  2nd-year Financial Engineering  
+  *Topic:* **Constrained Learning for Financial Partial Differential Equations:
+  Exact-Constraint Ansatz**  
+  *Role: Co-advisor with [C.-A. Lehalle](https://www.cmap.polytechnique.fr/~charles-albert.lehalle/).*
+
+
 - **2025-26:** [Joachim Jobard](https://www.linkedin.com/in/joachim-jobard-80490a209), École Centrale Lyon -
   KTH Royal Institute of Technology  
   *Topic:* **Learning-based Dynamic Programming on Functional Differential Equations**  
