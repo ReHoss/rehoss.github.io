@@ -120,7 +120,7 @@ I have been a teaching assistant for the following courses:
 
 ## Conference Organisation
 
-- **2026:** Lead organiser of the minisymposium *"Perspectives et avancées récentes en apprentissage pour la résolution numérique d'équations aux dérivées partielles"* at the Congrès National d'Analyse Numérique ([CANUM 2026](https://canum2026.math.cnrs.fr/en/)), Saint-Jacut-de-la-Mer, France.  
+- **2026:** Lead organiser of the minisymposium *"Perspectives and Recent Advances in Learning for the Numerical Solution of Partial Differential Equations"* at the Congrès National d'Analyse Numérique ([CANUM 2026](https://canum2026.math.cnrs.fr/en/)), Saint-Jacut-de-la-Mer, France.  
   Convened six young researchers (doctoral and post-doctoral) on machine learning for the numerical solution of partial differential equations.
 
 ## Peer Review

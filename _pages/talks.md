@@ -13,7 +13,7 @@ author_profile: true
 ## Talks
 
 - **Learning the Regularisation of a Kinetic 5-Moment Closure**  
-Minisymposium on machine learning for PDEs (self-organised), [Congrès National d'Analyse Numérique (CANUM[^canum] 2026)](https://canum2026.math.cnrs.fr/en/) - Saint-Jacut-de-la-Mer, France, 2026  
+Minisymposium on machine learning for PDEs (self-organised), [Congrès National d'Analyse Numérique (CANUM 2026)](https://canum2026.math.cnrs.fr/en/)[^canum] - Saint-Jacut-de-la-Mer, France, 2026  
 [[slides]]({{ site.baseurl }}/files/talks_slides/canum2026_slides_hosseinkhan.pdf)
 
 - **PhD Defense: On Learning-based Control of Dynamical Systems: Application to Flow Control**  
@@ -60,7 +60,7 @@ European Workshop on Reinforcement Learning (EWRL) - Toulouse, France, 2024
 
 #### Acronyms
 [^siam]: *SIAM* - Society for Industrial and Applied Mathematics  
-[^canum]: *CANUM* - Congrès National d'Analyse Numérique (French National Congress on Numerical Analysis)  
+[^canum]: *CANUM* - French National Congress on Numerical Analysis  
 [^tau]: *TAU* - TAckling the Underspecified
 [^lisn]: *LISN* - Laboratoire Interdisciplinaire des Sciences du Numérique (Interdisciplinary Laboratory of Digital Sciences)
 [^cnam]: *CNAM* - Conservatoire National des Arts et Métiers
