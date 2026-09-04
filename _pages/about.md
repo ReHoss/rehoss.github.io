@@ -7,7 +7,8 @@ redirect_from:
 ---
 
 Hello!
-I am a **Post-doctoral researcher at Centre de Mathématiques Appliquées de l'École Polytechnique** ([CMAP](https://cmap.ip-paris.fr/)) in the [HPC@Maths](https://cmap.ip-paris.fr/en/research/analysis/hpcmaths) team.
+I am a **Post-doctoral researcher at Centre de Mathématiques Appliquées de l'École Polytechnique** ([CMAP](https://cmap.ip-paris.fr/)) in the [HPC@Maths](https://cmap.ip-paris.fr/en/research/analysis/hpcmaths) and [MathsFi](https://cmap.ip-paris.fr/en/research/probability/mathsfi#projects) teams, working on learning closures for hyperbolic systems in physics, in particular moment closures of kinetic equations, and on constrained learning for financial PDEs.  
+My research is conducted in collaboration with [M. Massot](https://www.cmap.polytechnique.fr/~massot/) and [C.-A. Lehalle](https://www.cmap.polytechnique.fr/~charles-albert.lehalle/).
 
 
 I recently completed my PhD in Reinforcement Learning at Université Paris-Saclay, with a thesis entitled **On Learning-Based Control of Dynamical Systems**, applied to Computational Fluid Dynamics.  
@@ -22,7 +23,8 @@ I hold an [MSc in Artificial Intelligence, Systems, and Data](https://www.master
 
 ## Research Interests
 
-- Scientific Machine Learning
+- Learning-based Numerical Methods
+- Machine Learning for Partial Differential Equations
 - Closure Learning for Hyperbolic Systems
 - Physics-informed Machine Learning
 - Learning-based Control
