@@ -10,7 +10,7 @@ Hello!
 I am a **Post-doctoral researcher at Centre de Mathématiques Appliquées de l'École Polytechnique** ([CMAP](https://cmap.ip-paris.fr/)) in the [HPC@Maths](https://cmap.ip-paris.fr/en/research/analysis/hpcmaths) team.
 
 
-I recently completed my PhD in Reinforcement Learning at Université Paris-Saclay, where I worked on **Learning-based Control of Dynamical Systems with applications in Computational Fluid Dynamics**.  
+I recently completed my PhD in Reinforcement Learning at Université Paris-Saclay, with a thesis entitled **On Learning-Based Control of Dynamical Systems**, applied to Computational Fluid Dynamics.  
 My research was supervised by [A. Vilnat](https://perso.limsi.fr/anne/), [O. Semeraro](https://scholar.google.fr/citations?user=kregZ48AAAAJ&hl=en), and [L. Mathelin](https://perso.limsi.fr/mathelin/) and my PhD thesis is available [here]({{ site.baseurl }}/files/thesis/hosseinkhan_2025_phd_thesis.pdf).
 
 Before, I was a research intern at [Inria TAU](https://team.inria.fr/tau2/team-members/), where I worked on Learning-based methods for Stiff Differential Equations: Koopman operator theory and Physics-Informed Neural Networks under the supervision of [M-A. Bucci](https://www.researchgate.net/profile/Michele-Bucci), [T. Faney](https://scholar.google.fr/citations?user=6mNJCMUAAAAJ&hl=fr), [C. Mehl](https://scholar.google.fr/citations?user=6m0FNwIAAAAJ&hl=fr) and [M. Schoenauer](https://www.lri.fr/~marc/).  
@@ -22,10 +22,12 @@ I hold an [MSc in Artificial Intelligence, Systems, and Data](https://www.master
 
 ## Research Interests
 
-- Reinforcement Learning
-- Learning-based Control
-- Information Theory
+- Scientific Machine Learning
+- Closure Learning for Hyperbolic Systems
 - Physics-informed Machine Learning
+- Learning-based Control
+- Reinforcement Learning
+- Information Theory
 
 ## Publications
 
@@ -115,6 +117,11 @@ I have been a teaching assistant for the following courses:
 - [**SIAM Conference on Computational Science and Engineering (SIAM CSE23)**](https://www.siam.org/conferences-events/past-event-archive/cse23/), Amsterdam, Netherlands, 2023
 
 - [**European Drag Reduction and Flow Control Meeting (EDRFCM 2022)**](https://www.ercoftac.org/events/edrfcm2022/), Paris, France, 2022
+
+## Conference Organisation
+
+- **2026:** Lead organiser of the minisymposium *"Perspectives et avancées récentes en apprentissage pour la résolution numérique d'équations aux dérivées partielles"* at the Congrès National d'Analyse Numérique ([CANUM 2026](https://canum2026.math.cnrs.fr/en/)), Saint-Jacut-de-la-Mer, France.  
+  Convened six young researchers (doctoral and post-doctoral) on machine learning for the numerical solution of partial differential equations.
 
 ## Peer Review
 
