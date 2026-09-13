@@ -11,7 +11,7 @@ locale                   : "en-UK"
 title                    : "Rémy Hosseinkhan-Boucher"
 title_separator          : "-"
 name                     : &name "Rémy Hosseinkhan-Boucher"
-description              : &description "Researcher in Reinforcement Learning at the Paris-Saclay University"
+description              : &description "Post-doctoral researcher at CMAP, École Polytechnique — machine learning for partial differential equations"
 url                      : https://rehoss.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ReHoss/rehoss.github.io"

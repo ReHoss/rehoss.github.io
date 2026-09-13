@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+description: "Post-doctoral researcher at CMAP, École Polytechnique. Learning closures for hyperbolic systems and constrained learning for financial PDEs."
 redirect_from:
   - /about/
   - /about.html
