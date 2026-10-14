@@ -12,6 +12,10 @@ author_profile: true
 
 ## Talks
 
+- **Operator-Adapted Initial-Data Extensions for Hard-Constrained Neural PDE Solvers**  
+MathsFi Working Group - Centre de Mathématiques Appliquées (CMAP[^cmap]), École Polytechnique, Palaiseau, France, 2026  
+[[slides]]({{ site.baseurl }}/files/talks_slides/cmap_mathsfi_2026_slides_hosseinkhan.pdf)
+
 - **Learning the Regularisation of a Kinetic 5-Moment Closure**  
 Minisymposium on machine learning for PDEs (self-organised), [Congrès National d'Analyse Numérique (CANUM 2026)](https://canum2026.math.cnrs.fr/en/)[^canum] - Saint-Jacut-de-la-Mer, France, 2026  
 [[slides]]({{ site.baseurl }}/files/talks_slides/canum2026_slides_hosseinkhan.pdf)
@@ -61,6 +65,7 @@ European Workshop on Reinforcement Learning (EWRL) - Toulouse, France, 2024
 #### Acronyms
 [^siam]: *SIAM* - Society for Industrial and Applied Mathematics  
 [^canum]: *CANUM* - French National Congress on Numerical Analysis  
+[^cmap]: *CMAP* - Centre de Mathématiques Appliquées (Centre for Applied Mathematics)  
 [^tau]: *TAU* - TAckling the Underspecified
 [^lisn]: *LISN* - Laboratoire Interdisciplinaire des Sciences du Numérique (Interdisciplinary Laboratory of Digital Sciences)
 [^cnam]: *CNAM* - Conservatoire National des Arts et Métiers
