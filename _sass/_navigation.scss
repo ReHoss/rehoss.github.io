@@ -24,8 +24,8 @@
     padding-right: 1em;
   }
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+  @include breakpoint($large) {
+    max-width: $site-maximum-width;
   }
 
   ol {
