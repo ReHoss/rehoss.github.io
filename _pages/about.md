@@ -129,6 +129,7 @@ I have been a teaching assistant for the following courses:
 
 ## Peer Review
 
+- **2026:** [Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)
 - **2025:** [International Conference on Machine Learning (ICML)](https://icml.cc/)
 - **2024:** [Journal of Fluid Mechanics (JFM)](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
 - **2024:** [European Workshop on Reinforcement Learning (EWRL)](https://ewrl.wordpress.com/)
