@@ -87,10 +87,12 @@ I have been a teaching assistant for the following courses:
     - **Principal Lecturers:** [H. Montanelli](https://hadrien-montanelli.github.io/), [V. Dolean](https://scholar.google.com/citations?user=ZzHAiHkAAAAJ&hl=en)
 
 
+{% comment %}
 - **[Reinforcement Learning (M2 Artificial Intelligence)](https://www.universite-paris-saclay.fr/formation/master/informatique/m2-artificial-intelligence#presentation)** - Université Paris-Saclay
     - [**Course materials**]({{ site.baseurl }}/teaching/2025_2026_m2ai_reinforcement_learning/)
     - Supervision of practical sessions and final exam
     - **Principal Lecturer:** [L. Mathelin](https://perso.limsi.fr/mathelin/)
+{% endcomment %}
 
 - **[Advanced Deep Learning (MVA Program)](https://www.lri.fr/~gcharpia/deeppractice/)** – ENS Paris-Saclay
     - Supervision the *Machine Learning for Physics and Interpretability* modules
