@@ -88,7 +88,7 @@ I have been a teaching assistant for the following courses:
 
 
 - **[Reinforcement Learning (M2 Artificial Intelligence)](https://www.universite-paris-saclay.fr/formation/master/informatique/m2-artificial-intelligence#presentation)** - Université Paris-Saclay
-    - [**Course materials**]({{ site.baseurl }}/teaching/2025_2026_m2ai_reinforcement_learning/)
+    - [**Course materials**]({{ site.baseurl }}/teaching/m2ai_reinforcement_learning/)
     - Supervision of practical sessions and final exam
     - **Principal Lecturer:** [L. Mathelin](https://perso.limsi.fr/mathelin/)
 
