@@ -30,6 +30,9 @@ The practical sessions take place on Fridays at the PUIO, room E105.
 #### Practical Session 1 (20 November 2026): Markov Decision Processes and Finite-Horizon Dynamic Programming
 * [Notebook]({{ site.baseurl }}/files/teaching/2026_2027_m2ai_reinforcement_learning/practical_sessions/m2ai_2026_2027_practical_session_1.ipynb) - [Exercise sheet]({{ site.baseurl }}/files/teaching/2026_2027_m2ai_reinforcement_learning/practical_sessions/m2ai_2026_2027_practical_session_1.pdf)
 
+#### Practical Session 2 (27 November 2026): Discounted Infinite-Horizon Markov Decision Processes and Iterative Methods
+* [Notebook]({{ site.baseurl }}/files/teaching/2026_2027_m2ai_reinforcement_learning/practical_sessions/m2ai_2026_2027_practical_session_2.ipynb) - [Exercise sheet]({{ site.baseurl }}/files/teaching/2026_2027_m2ai_reinforcement_learning/practical_sessions/m2ai_2026_2027_practical_session_2.pdf)
+
 <div style="margin-top: 4em;"></div>
 
 ---
